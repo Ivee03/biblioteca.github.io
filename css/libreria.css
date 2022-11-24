@@ -1,0 +1,73 @@
+header{
+    text-align: center;
+}
+
+header nav{
+    font-size: 1rem;
+}
+
+header nav ul li{
+    display: inline;
+    padding: 0.5rem 2rem;
+    
+}
+
+h1{
+    flex: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img#Real{
+    width: 175px;
+}
+
+ul.libro{
+    display: flex;
+}
+
+ul li.loba{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+ul li.cocina{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+ul li.poder{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+ul li.sidi{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+ul li.real{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+ul li.reina{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+footer{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 1rem;
+}
